@@ -12,4 +12,4 @@ Saad M. Alqahtani., Abduljabar Q. Alsayoud and Fahhad H. Alharbi, “Structures,
 highly stable phases of inorganic ABX3 halides: A = Li, Na, K, Rb, Cs, Tl; B = Be, Mg, Ca, Ge, Sr, Sn, Pb; and X = F, Cl,
 Br & I,”  RSC Adv., vol. 13, no. 13, p. 9026-9032, 2023.
 
-The hosting website of the computational materials: https://cms-zgj7.onrender.com
+The hosting website of the computational materials: https://cms-zgj7.onrender.com. Users need to wait about 15 seconds for the website to be activated by the server.
