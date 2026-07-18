@@ -11,3 +11,5 @@ The full HT screening of highly stable ABX<sub>3</sub> compounds is described in
 Saad M. Alqahtani., Abduljabar Q. Alsayoud and Fahhad H. Alharbi, “Structures, band gaps, and formation energies of
 highly stable phases of inorganic ABX3 halides: A = Li, Na, K, Rb, Cs, Tl; B = Be, Mg, Ca, Ge, Sr, Sn, Pb; and X = F, Cl,
 Br & I,”  RSC Adv., vol. 13, no. 13, p. 9026-9032, 2023.
+
+The hosting website of the computational materials: https://cms-zgj7.onrender.com
